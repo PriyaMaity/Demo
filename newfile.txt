@@ -1,0 +1,10 @@
+1. copy the clone repo
+2. open git bash
+3. git clone <url>
+4. navigate to the repository
+5. now you can add your work
+6. git status :- check is it showing proper part or not
+7. git add .
+8. git commit -m ""
+9. git pull //not this time but after this everytime you should pull first
+10. git push -u origin main
